@@ -1,5 +1,5 @@
-# Mantine Next Template
+# Animated Umbrella
 
-Get started with the template by clicking `Use this template` button on the top of the page.
+Это очередной проект на Next.js + Mantine
 
-[Documentation](https://mantine.dev/guides/next/)
+В нем я постараюсь максимально использовать новейшие тренды Web разработки
